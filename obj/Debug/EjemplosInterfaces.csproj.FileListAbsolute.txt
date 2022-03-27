@@ -1,0 +1,8 @@
+C:\Users\carme\source\repos\EjemplosInterfaces-G2-2022-II\bin\Debug\EjemplosInterfaces.exe.config
+C:\Users\carme\source\repos\EjemplosInterfaces-G2-2022-II\bin\Debug\EjemplosInterfaces.exe
+C:\Users\carme\source\repos\EjemplosInterfaces-G2-2022-II\bin\Debug\EjemplosInterfaces.pdb
+C:\Users\carme\source\repos\EjemplosInterfaces-G2-2022-II\obj\Debug\EjemplosInterfaces.csproj.AssemblyReference.cache
+C:\Users\carme\source\repos\EjemplosInterfaces-G2-2022-II\obj\Debug\EjemplosInterfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\carme\source\repos\EjemplosInterfaces-G2-2022-II\obj\Debug\EjemplosInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\carme\source\repos\EjemplosInterfaces-G2-2022-II\obj\Debug\EjemplosInterfaces.exe
+C:\Users\carme\source\repos\EjemplosInterfaces-G2-2022-II\obj\Debug\EjemplosInterfaces.pdb
